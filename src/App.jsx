@@ -67,7 +67,8 @@ function App() {
           <a href="#item3" className="btn btn-xs">3</a> 
           <a href="#item4" className="btn btn-xs">4</a>
         </div>
-
+        
+        <h1>hello react</h1>
     </>
   )
 }
